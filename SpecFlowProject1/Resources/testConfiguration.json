@@ -1,0 +1,7 @@
+{
+  "SiteUrl": "https://todomvc.com/examples/vue/",
+  "Timeouts": {
+    "Visible": 20,
+    "Exist": 5
+  }
+}
